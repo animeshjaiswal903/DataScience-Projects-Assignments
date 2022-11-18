@@ -1,0 +1,4 @@
+Open Book Project.
+If asked : would you like to edit the connection?
+Press yes and select the Weekly_Demand_Data file from this folder.
+Thank you.
